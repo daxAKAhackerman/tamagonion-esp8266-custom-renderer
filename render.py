@@ -5,7 +5,6 @@ import re
 import socket
 
 PROTOCOL_PREFIX = "TG1"
-CHALLENGE_LEN = 47
 
 
 class Renderer:
